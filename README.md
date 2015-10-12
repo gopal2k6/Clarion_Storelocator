@@ -9,9 +9,7 @@ For more information visit http://www.magentocommerce.com/magento-connect/store-
 Installation
 ------------
 
-1. Add `require` and `repositories` sections to your composer.json as shown in example below and run `composer update`.
-2. Configure options in in System -> Configuration -> Kirchbergerknorr -> TrustedBadge. 
-3. Actiavate logs and module.
+Add `require` and `repositories` sections to your composer.json as shown in example below and run `composer update`.
 
 *composer.json example*
 
