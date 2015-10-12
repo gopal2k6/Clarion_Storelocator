@@ -1,0 +1,15 @@
+{
+    "name": "kirchbergerknorr/Clarion_Storelocator",
+    "description": "Clarion_Storelocator",
+    "keywords": ["magento", "store", "locator", "finder"],
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "authors": [
+        {
+            "name": "Michael Furtner",
+            "email": "mf@kirchbergerknorr.de"
+        }
+    ],
+    "require": {
+    }
+}
